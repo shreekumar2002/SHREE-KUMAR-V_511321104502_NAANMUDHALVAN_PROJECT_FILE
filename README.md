@@ -1,4 +1,20 @@
-# Bus Reservation System
+PROJECT CREATED BY:
+
+NAME: SHREE KUMAR V
+
+REGISTER NO: 511321104502
+
+COLLEGE CODE: 5113
+
+COLLEGE NAME:KINGSTON ENGINEERING COLLEGE
+
+LOGIN DETAILS:
+
+USERNAME: ADMIN
+
+PASSWORD: ADMIN#
+
+Bus Reservation System
 
 This is a simple Bus Reservation System built using Python and Django framework. The system allows users to search for available buses, make reservations, and view their booking details.
 
